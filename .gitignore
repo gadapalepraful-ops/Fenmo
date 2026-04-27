@@ -1,0 +1,4 @@
+node_modules/
+expenses.db
+*.db
+.env
